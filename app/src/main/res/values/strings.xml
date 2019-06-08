@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase13</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="name1">Fill Name</string>
+    <string name="data1">Fill Data</string>
+    <string name="clear">Clear Data</string>
+    <string name="msgSave">Save Data SucessFully</string>
+    <string name="msgError">Error Find Data</string>
+</resources>
